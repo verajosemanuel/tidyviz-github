@@ -70,6 +70,7 @@ install_github("sicarul/xray")
 install_github("smach/rmiscutils")
 install_github("Stan125/GREA")
 install_github("stephlocke/pRojects")
+install_github("strengejacke/strengejacke")
 install_github("swarm-lab/editR") # requires devtools::shinyAce shiny shinyFiles shinyBS rmarkdown knitr
 install_github("ThinkR-open/remedy")
 install_github("ThinkRstat/littleboxes")
