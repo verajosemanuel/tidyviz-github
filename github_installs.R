@@ -5,6 +5,7 @@ check.packages(packages)
 
 install_github("AckerDWM/gg3D")
 install_github("AliciaSchep/gglabeller")
+install_github("ankane/dbx")
 install_github("AntoineGuillot2/D3partitionR")
 install_github("AppliedDataSciencePartners/xgboostExplainer")
 install_github("aryoda/tryCatchLog")
