@@ -1,8 +1,5 @@
 library(devtools)
 
-packages<-c("viridisLite", "viridis", "anim.plots", "animation", "autoplotly", "basictabler")
-check.packages(packages)
-
 install_github("AckerDWM/gg3D")
 install_github("AliciaSchep/gglabeller")
 install_github("ankane/dbx")
